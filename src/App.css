@@ -1,14 +1,13 @@
 body{
     background: radial-gradient(circle, rgba(45,9,67,1) 0%, rgba(5,21,41,1) 100%);
     color: #ddd;
-    height: 100vh;
 }
 *{
     box-sizing: border-box;
 }
 main{
     max-width: 300px;
-    margin: 200px auto;
+    margin: 50px auto;
 }
 form{
     border: 3px solid #30313D;
